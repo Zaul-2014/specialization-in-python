@@ -1,0 +1,6 @@
+Curriculum: Covers foundational concepts to advanced topics in AI, Data Science, Game Development, and Web Development, using platforms like Scratch and Python.
+Learning Style: Focuses on hands-on projects, critical thinking, and problem-solving, making learning fun and practical.
+Instructors: Taught by computer science/IT graduates with high selection rates, ensuring quality instruction.
+Accreditation: Its curriculum is accredited by STEM.org.
+Beyond Classes: Also hosts global coding competitions, hackathons, and online camps.
+Mission: To inspire children to love coding and become future innovators by building real-world projects.
